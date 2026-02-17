@@ -1,5 +1,6 @@
 # AI-Based Smart Patient Monitoring and Risk Prediction System
 The system effectively monitors simulated real-time patient vital parameters and performs AI-driven anomaly detection to identify abnormal health conditions. Dynamic risk scoring and automated alert generation improve early risk identification. Predictive trend analysis and structured medical report generation demonstrate the system’s applicability for intelligent remote healthcare monitoring.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/solokind/AI-Based-Smart-Patient-Monitoring-and-Risk-Prediction-System
-/blob/main/AI_Patient_Monitoring_System.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/solokind/AI-Based-Smart-Patient-Monitoring-and-Risk-Prediction-System/blob/main/AI_Patient_Monitoring_System.ipynb)
+
