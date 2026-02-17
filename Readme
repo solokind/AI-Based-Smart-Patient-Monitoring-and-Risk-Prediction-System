@@ -1,0 +1,1 @@
+AI-Based Smart Patient Monitoring and Risk Prediction System is built using Python in Google Colab. It simulates real-time patient vitals, uses Machine Learning for anomaly detection, calculates dynamic risk scores, classifies risk levels (Normal/Warning/Critical), generates alerts, predicts trends, and creates automated PDF reports with graphs.
